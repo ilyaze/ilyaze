@@ -16,5 +16,3 @@
 
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />] [vk]
 [<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/ilyazm/badges/large" />]
-[vk]: https://vk.com/id682532314
-[codewasrs]: https://www.codewars.com/users/ilyazm/badges/large
