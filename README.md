@@ -17,3 +17,4 @@
 [<img align="left" alt="VK" width="26px" src="https://cdn-icons-png.flaticon.com/512/145/145813.png" />] [vk]
 
 [vk]: https://vk.com/id682532314
+[codewasrs]: https://www.codewars.com/users/ilyazm/badges/large
