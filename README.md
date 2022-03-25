@@ -14,6 +14,6 @@
 
 ### You can contact me:
 
-[<img align="left" alt="VK" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png"] [VK]
+[<img align="left" alt="VK" width="26px" src="import { Icon20LogoVk } from '@vkontakte/icons';"] [VK]
 
 [vk]: https://vk.com/id682532314
