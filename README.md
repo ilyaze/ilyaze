@@ -6,7 +6,7 @@
 
 ### Skilss and Tools
 
-![Python](https://img.shields.io/badge/-Python-3A3845?style=flat-square&logo=python&logoColor=FFD93D)
+![Python](https://img.shields.io/badge/-Python-3A3845?style=flat-square&logo=python&logoColor=F7F5F2)
 
 <br />
 <br />
