@@ -16,5 +16,3 @@
 <br />
 <br />
 <br />
-
-<img align="left" alt="CodeWars" width="320px" src="https://www.codewars.com/users/ilyazm/badges/large" />
